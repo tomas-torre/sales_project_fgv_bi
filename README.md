@@ -99,7 +99,8 @@ Assim, o BI se torna um **instrumento essencial para decisões mais assertivas e
 
 ---
 
-**Referências bibliográficas:** 
+## **Referências bibliográficas:** 
+
 CHECHI, L.A.; SCHULTZ, G. A produção de erva-mate: um estudo da dinâmica produtiva nos Estados do Sul do Brasil. Enciclopédia Biosfera, Goiás, v. 13, n. 23, 2016. DOI: 10.18677/Enciclopedia_Biosfera_2016_002 Disponível em: https://lume.ufrgs.br/handle/10183/275043. Acesso em:05 ago. 2025.
 
 GULLÓN, Beatriz et al. Yerba mate waste: a sustainable resource of antioxidant compounds.Industrial Crops And Products, [S.L.], v. 113, p. 398-405, mar. 2018. Elsevier BV. http://dx.doi.org/10.1016/j.indcrop.2018.01.064. Disponível em: https://www.sciencedirect.com/science/article/abs/pii/S0926669018300773?via%3Dihub#preview-section-cited-by. Acesso em: 05 ago. 2025.
